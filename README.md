@@ -10,6 +10,7 @@ A list of libraries that generate [JFR]((https://openjdk.java.net/jeps/328)) eve
 * [marschall/junit4-jfr](https://github.com/marschall/junit4-jfr) a JUnit 4 extension that generates JFR events
 * [marschall/hibernate-jfr](https://github.com/marschall/hibernate-jfr) a Hiberante listener that generates JFR events
 * [marschall/jfr-jdbctemplate](https://github.com/marschall/jfr-jdbctemplate) an implementation of Spring JdbcTemplate that generates JFR events
+* [marschall/jfr-jmstemplate](https://github.com/marschall/jfr-jmstemplate) an implementation of Spring JmsTemplate that generates JFR events
 * [marschall/jfr-resttemplate](https://github.com/marschall/jfr-resttemplate) an implementation of Spring RestTemplate that generates JFR events
 * [marschall/jfr-jdbc](https://github.com/marschall/jfr-jdbc) a JDBC driver that wraps an other JDBC driver and generates JFR events
 * [marschall/jfr-ejb](https://github.com/marschall/jfr-ejb) an EJB interceptor that generates JFR events
