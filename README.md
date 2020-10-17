@@ -14,4 +14,5 @@ A list of libraries that generate [JFR]((https://openjdk.java.net/jeps/328)) eve
 * [marschall/jfr-resttemplate](https://github.com/marschall/jfr-resttemplate) an implementation of Spring RestTemplate that generates JFR events
 * [marschall/jfr-jdbc](https://github.com/marschall/jfr-jdbc) a JDBC driver that wraps an other JDBC driver and generates JFR events
 * [marschall/jfr-ejb](https://github.com/marschall/jfr-ejb) an EJB interceptor that generates JFR events
+* [marschall/micrometer-jfr](https://github.com/marschall/micrometer-jfr) a meter registry that generates JFR events for corresponding Micrometer metrics
 
